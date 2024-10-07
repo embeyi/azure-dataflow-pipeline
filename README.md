@@ -10,7 +10,7 @@ This repository contains the code and resources for building and managing data p
 - **Data Integration:** Integrate data into Azure Synapse Analytics, Azure SQL Database, or other data stores for analytics and reporting.
 - **Scheduling & Monitoring:** Pipelines can be scheduled to run at regular intervals and monitored through Azure Monitor and built-in ADF reporting.
 
-## Prerequisites
+## Prerequisites 
 
 Before setting up the pipeline, ensure you have the following:
 
