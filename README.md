@@ -18,7 +18,7 @@ Before setting up the pipeline, ensure you have the following:
 - **Azure CLI or PowerShell:** These tools will help with resource provisioning and deployment.
 - **Access to Data Sources:** Credentials and permissions to access data from your on-premises or cloud-based sources.
 
-## Architecture
+## Architecture 
 
 The high-level architecture of the Azure Dataflow Pipeline includes:
 
