@@ -2,7 +2,6 @@
 
 This repository contains the code and resources for building and managing data pipelines in Azure using Azure Data Factory, Azure Data Lake, and other Azure Data Engineering services. The pipeline is designed to automate data ingestion, transformation, and loading (ETL) processes across multiple data sources.
 
-
 ![Job Config 2](AZ-ETL.jpeg)
 
 ## Features
@@ -22,6 +21,12 @@ Before setting up the pipeline, ensure you have the following:
 - **Access to Data Sources:** Credentials and permissions to access data from your on-premises or cloud-based sources.
 
 ## Architecture 
+
+
+![Job Config 2](AZ-ETL.jpeg)
+
+
+
 
 The high-level architecture of the Azure Dataflow Pipeline includes:
 
