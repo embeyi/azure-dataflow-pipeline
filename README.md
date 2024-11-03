@@ -2,6 +2,9 @@
 
 This repository contains the code and resources for building and managing data pipelines in Azure using Azure Data Factory, Azure Data Lake, and other Azure Data Engineering services. The pipeline is designed to automate data ingestion, transformation, and loading (ETL) processes across multiple data sources.
 
+
+![Job Config 2](AZ_ETL.jpeg)
+
 ## Features
 
 - **Data Ingestion:** Automated data ingestion from a variety of sources including on-premises databases, cloud services, APIs, and file storage.
