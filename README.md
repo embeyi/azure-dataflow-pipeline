@@ -41,3 +41,9 @@ The high-level architecture of the Azure Dataflow Pipeline includes:
 
 ```bash
 git clone https://github.com/yourusername/azure-dataflow-pipeline.git
+```
+
+## DataBricks
+  For Data Transformation
+  
+![Job Config 2](Databricks.png)
