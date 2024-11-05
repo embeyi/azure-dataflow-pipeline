@@ -4,7 +4,7 @@ This repository contains the code and resources for building and managing data p
 
 ![Job Config 2](AZ-ETL.jpeg)
 
-## Features
+## Features 
 
 - **Data Ingestion:** Automated data ingestion from a variety of sources including on-premises databases, cloud services, APIs, and file storage.
 - **Data Transformation:** Leverage Azure Data Factory (ADF) for data transformations using mapping data flows and custom activities.
