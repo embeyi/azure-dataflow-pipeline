@@ -1,4 +1,4 @@
-# Azure Dataflow Pipeline
+# Azure Dataflow Pipeline 
 
 This repository contains the code and resources for building and managing data pipelines in Azure using Azure Data Factory, Azure Data Lake, and other Azure Data Engineering services. The pipeline is designed to automate data ingestion, transformation, and loading (ETL) processes across multiple data sources.
 
